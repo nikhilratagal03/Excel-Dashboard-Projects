@@ -2,7 +2,7 @@
 
 This repository contains two of my data analysis projects completed using real-world datasets. Both projects were carried out entirely in Microsoft Excel, focusing on data cleaning, visualization, and deriving business insights.
 
-✈️ Flight Price Analysis
+#✈️ Flight Price Analysis
 
 Objective:
 Analyze flight pricing data to identify factors influencing ticket prices.
@@ -25,7 +25,7 @@ Tools Used:
 
 Excel (cleaning, pivot tables, charts)
 
-🪔 Diwali Sales Analysis
+#🪔 Diwali Sales Analysis
 
 Objective:
 Analyze sales data during the Diwali season to identify customer purchasing behavior and trends.
@@ -46,4 +46,4 @@ Regional sales performance
 
 Tools Used:
 
-Excel (EDA, pivot tables, charts)
+Excel ( pivot tables, charts)
